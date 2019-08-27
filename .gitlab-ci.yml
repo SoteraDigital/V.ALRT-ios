@@ -1,0 +1,49 @@
+stages:
+ - build
+
+variables:
+  LANG: "en_US.UTF-8"
+  LC_ALL: "en_US.UTF-8"
+
+before_script:
+  - cd V.alert
+  - bundle install
+
+build:
+  tags:
+    - ios
+  stage: build
+  script:
+   - bundle exec fastlane build
+  except:
+    - /^develop-.*/
+    - develop
+    - master
+  artifacts:
+   paths:
+    - "V.alert/*.dSYM.zip"
+    - "V.alert/*.ipa"
+
+build:develop:
+  tags:
+    - ios
+  stage: build
+  script:
+   - bundle exec fastlane beta
+  only:
+    - /^develop-.*/
+    - develop
+  artifacts:
+   paths:
+    - "*/*.dSYM.zip"  
+    - "V.alert/*.ipa"
+  
+build:publish:
+  when: manual
+  tags:
+    - ios
+  stage: build
+  script:
+    - bundle exec fastlane appstore_upload
+  only:
+    - master

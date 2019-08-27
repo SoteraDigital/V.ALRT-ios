@@ -1,0 +1,39 @@
+
+/* Class = "IBUILabel"; text = "Find V.ALRT Device"; ObjectID = "5b3-Ba-NbN"; */
+"5b3-Ba-NbN.text" = "Find V.ALRT Device";
+
+/* Class = "IBUILabel"; text = "Device Name"; ObjectID = "Gkt-Hr-HlC"; */
+"Gkt-Hr-HlC.text" = "Device Name";
+
+/* Class = "IBUILabel"; text = "Alert Message"; ObjectID = "NkH-NZ-IEA"; */
+"NkH-NZ-IEA.text" = "Alert Message";
+
+/* Class = "IBUILabel"; text = "Forget Me"; ObjectID = "Tyt-os-FnP"; */
+"Tyt-os-FnP.text" = "Forget Me";
+
+/* Class = "IBUILabel"; text = "Silent Mode"; ObjectID = "Wci-aG-AZV"; */
+"Wci-aG-AZV.text" = "Silent Mode";
+
+/* Class = "IBUILabel"; text = "Change Name"; ObjectID = "aa2-4n-TK6"; */
+"aa2-4n-TK6.text" = "Change Name";
+
+/* Class = "IBUILabel"; text = "Disabled"; ObjectID = "bI9-DU-SV5"; */
+"bI9-DU-SV5.text" = "Disabled";
+
+/* Class = "IBUILabel"; text = "Texts / Calls"; ObjectID = "bmz-l5-H8z"; */
+"bmz-l5-H8z.text" = "Texts / Calls";
+
+/* Class = "IBUILabel"; text = "No Devices found"; ObjectID = "egk-LO-MpR"; */
+"egk-LO-MpR.text" = "No Devices found";
+
+/* Class = "IBUILabel"; text = "Not Connected"; ObjectID = "fud-Er-ea5"; */
+"fud-Er-ea5.text" = "Not Connected";
+
+/* Class = "IBUILabel"; text = "Fall Detection"; ObjectID = "jCR-5d-ABp"; */
+"jCR-5d-ABp.text" = "Fall Detection";
+
+/* Class = "IBUILabel"; text = "History Log"; ObjectID = "jvR-YX-0O5"; */
+"jvR-YX-0O5.text" = "History Log";
+
+/* Class = "IBUILabel"; text = "You not connected with any devices."; ObjectID = "oZp-Mc-Gpw"; */
+"oZp-Mc-Gpw.text" = "You not connected with any devices.";

@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+source 'https://github.com/cocoapods/specs'
+pod 'TwilioSDK', '~>1.2.11'
+pod 'TwilioVoice', '~>2.0'
+pod 'Firebase/Core'
+pod 'Firebase/Performance'
+pod 'Fabric'
+pod 'Crashlytics'
+target 'HNAlert' do 
+  #platform :ios, '7.1'
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+end
+
+target 'V.alert' do
+  #platform :ios, '7.1'
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for V.alert
+  target 'V.alertTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

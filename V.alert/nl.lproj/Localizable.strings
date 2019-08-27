@@ -1,0 +1,327 @@
+// Device Tracker
+"Tracker" = "Tracker";
+"Tracker_in_progress" = "Tracker bezig";
+"EnableAlertMSG" = "Alarm inschakelen indien uw V.ALRT buiten bereik komt";
+"SoundAndAlert" = "Geluid en Alarm";
+"TogelTheTracker" = " In Tracker mode zal uw telefoon trillen of een unique hard geluid weergeven, wanneer de V.ALRT buiten bereik komt. Ben er zeker van dat uw telefoon niet in stilte mode staat. ";
+
+"Sound" = "Hard Geluid";
+"Vibrate" = "Trillem";
+"Light" = "Knipperen";
+"Tracker_connected" = "Tracker Verbonden";
+"Tracker_disconnected" = "Tracker niet Verbonden";
+"Tracker_Cancelled" = "Tracker Geannuleerd";
+
+"Tracker_Loud_Alert_will_be_turned_off" = " Tracker luid Alarm wordt uitgeschakeld.";
+
+"Tracker_on" = "Aan";
+"Tracker_off" = "Uit";
+
+"Silent Mode for your phone applicaiton will be turned off" = "Stilte Mode voor uw telefoon applicatie zal uitgeschakeld worden.";
+"Tracker_silent" = " Stilte Mode voor uw telefoon applicatie zal uitgeschakeld worden.";
+"Tracker_accept" = "OK";
+"Tracker_cancel" = "Annuleren";
+"Application silent mode on" = "Applicatie stilte mode aan";
+"Application silent mode off" = "Applicatie stilte mode uit";
+"Device silent mode on" = "Apparaat stilte mode aan";
+"Device silent mode off" ="Apparaat stilte mode uit";
+"Tracker loud tone on" = "Tracker hard geluid aan";
+"Tracker loud tone off" ="Tracker hard geluid uit";
+"Tracker vibrate on" = "Tracker trillen aan";
+"Tracker vibrate off" ="Tracker trillen uit";
+
+
+//No Changes
+"CalendarAlert (Default)" = "CalendarAlarm (Standaard)";
+"settings_disable" = "instellingen uitschakelen";
+"call_enable" ="bellen inschakelen";
+"text_enable" ="sms inschakelen";
+"initial_settings_setup" =  "eerste instellingen";
+"Help, I need now" = "";
+//"CalendarAlert (Default)" =  "CalendarAlarm (Standaard)";
+"1005" =  "1005";
+"settings_disable" = " instellingen uitschakelen";
+"call_enable" = " bellen inschakelen";
+"text_enable" = " sms inschakelen";
+"initial_settings_setup" =  " eerste instellingen";
+"valert_device_silentmode" = "valert apparaat stiltemode";
+"phone_application_silentmode" = "telefoon applicatie stiltemode";
+"Tap to add contact" = "Contact Toevoegen";
+"alert_message" = "alarm bericht";
+"alert_ringtone_name" = "alarm ringtoon naam";
+"alert_ringtone_ID" = "alarm ringtoon ID";
+"contacts_array" = "contacts_array";
+"contacts_name" = "contacts_name";
+"found_peripherals" =  "gevonden_apparaten";
+"paired_peripherals" = "verbonden_apparaten";
+"active_peripheral" =  "activen_apparaten";
+"discover_uuid" = "discover_uuid";
+"ON" = "Aan";
+"OFF" = "Uit";
+"Enabled"  = "Ingeschakeld";
+"Disabled" = "Uitgeschakeld";
+
+"next" = "Verder";
+"back" = "Terug";
+"cancel" = "Annuleren";
+"done" = "Klaar";
+
+"invalid_number" = "Geen Geldig Nummer ";
+"connecting" = "Verbinden";
+"waiting" = "Wachten";
+
+
+"sms_title" = "Vertel uw contactpersonen dat ze deel uitmaken van uw V.ALRT groep.";
+"sms_desc" = "I heeft u toegevoegd als een V.ALRT contactpersoon. Wanneer ik uw hulp nodig heb, zult u een oproep en/of een SMS met mijn locatie ontvangen.\u0022";
+"skip" ="Overslaan";
+"send" ="Versturen";
+"sms_sent_success" = "Text bericht verzonden.";
+"sms_sent_failure" = "Test bericht mislukt.";
+"send_sms" = "SMS wordt verstuurd";
+"valrt_from" = "V.ALRT Van:";
+//welcome Screen
+
+"welcome_title" = "Welkom";
+"welcome_terms" = "Voorwaarden";
+
+
+"welcome_termsDescription" = "V.ALRT  is een klein draagbaar alarm apparaat met Bluetooth 4.0 LE.Applicatie communiceert met het apparaat via Bluetooth technologie en alarmeert mensen in geval van urgentie zoals medisch, vallen en veiligheid van een familielid.";
+
+"welcome_termAccept" = "Lees en accepteer de voorwaarden A.U.B.";
+"welcome-settings-msg"=" Lees en accepteer de voorwaarden A.U.B.";
+
+"welcome_email_subject" = "V.ALRT T&C Url";
+
+//<!-- Agreement Screen -->
+"agreement_title" = "Overeenkomst";
+
+"agreement_termsDescription" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+
+"agreement_terms" = "Aanvullende eisen voor het gebruik en de juiste functionaliteit van V.ALRT";
+
+//<!-- Help Screen -->
+"help_title" = "Help";
+"help_history" = "Geschiedenis Log";
+"help_productInfo" = "Product Informatie";
+"help_about" = "FAQ";
+"help_instVideo" = "Instructie Video";
+"helpInfo_aboutTitle" = "Over VSN";
+"helpInfo_ProductinfoTitle" = "Product Informatie";
+"helpInfo_TermsInfoTitle" = "Voorwaarden";
+"help_terms" = " Voorwaarden";
+"help_instManual" = "Snel Start Gids";
+
+"vsn_link" = "http://vsnmobil.com/valrt/manuals/VAlrt_quick_start.pdf";
+"Cancel" = "Annuleren";
+"V.ALRT Key pressed" ="Alarm knop ingedrukt";
+"V.FALL Detect" = "V.FALL Gedetecteerd";
+"V.FALL fall Detect" = "Vallen Gedetecteerd";
+
+"Are you sure want to forgot this device" = "Dit apparaat vergeten?";
+"No Internet Connection is Avaialable" = " Geen Internet Verbinding";
+"No Internet Connection" = " Geen Internet Verbinding";
+"Avialable" = "Beschikbaar";
+
+
+"Low Battery" = "Lage Batterij";
+//<!-- Help List -->
+//<!-- Scan -->
+"devices_title" = "Apparaat Beheren";
+"lblPaireddevice_text" = " Op dit moment heeft u geen gekoppelde apparaten";
+"no_device" = "Geen Apparaten Gevonden";
+"activate_device" = "Stap 1 – Activeer uw V.ALRT";
+"available_device" = "Stap 2 – Kies een V.ALRT";
+"paired_device" = "V.ALRT Apparaat";
+"deviceHandLabel" = "Druk op uw V.ALRT en houdt deze 10 seconden ingedrukt tot u een piep hoort en het licht groen knippert, laat de knop dan los.";
+//<!-- Dashboard activity -->
+"Are you sure do you want to enable the fall detection?" = "De val detectie nauwkeurigheid hangt af van de aard en de impact van de val. Testen hebben aangetoond dat de val detectie beter werkt als V.ALRT wordt gebruikt met de clip of de hanger. Voor het beste resultaat, druk altijd op de ALRT knop 2 ~ 8 seconden. Verder gaan met de val detectie?";
+"Are you sure do you want to disable the fall detection?" = "Val detectie uitschakelen?";
+"forgot_me" = "Forgot me";
+
+//<!-- FallDetectDialog -->
+
+
+//<!-- conguratulation activity -->
+"done" = "Klaar";
+"cong_title" = "Proficiat!!!";
+"cong_title1" = "Uw V.ALRT is ingesteld!";
+"home_termsDescription" =" Voordat u verder gaat adviseren we om een test uit te voeren om de werking te garanderen. Informeer uw contactpersonen dat ze een SMS/Oproep kunnen verwachten, voordat u de alarm knop op de V.ALRT indrukt.";
+//<!-- Home activity -->
+"home_title" = "Home";
+"home_deviceDashboard" = "Mijn Apparaat";
+"home_manageDevice" ="Apparaat Beheren";
+"home_help" = "Help";
+"home_textCalls" = "SMS / Calls";
+"home_valertDevice" ="V.ALRT Apparaat";
+"home_phoneApp" = "Telefoon Applicatie";
+//<!-- AlertProgress Activity -->
+"Enable a Contact with Text or Call to send an Alert" = " Activeer een Contactpersoon met een SMS of Oproep om een Alarm te sturen.";
+//<!-- Settings activity -->
+"home_settings" ="Mijn Instellingen";
+"settings alert_message" = "Boodschap";
+"settings_addContact" = "Contact Toevoegen";
+"There are no contact number available for selected contact" = " Geen telefoonnummer in de geselecteerde contact";
+"Add Contact to Enable Texts and Calls"  = " Eerst een contact toevoegen A.U.B.";
+"settings_contact" = "Contacten";
+"settings_calls" = "Bellen";
+"settings_text" = "SMS";
+"settings_alerttitle" = "Alarm Geluid ";
+"settings_messagedescription" = " Bericht wordt gestuurd naar de ingestelde contacten";
+"settings_alertstring" = "Dit zijn de geluiden die worden afgespeeld wanneer een notificatie voorkomt of wanneer de V.ALRT is Aangestuurd.";
+
+"settings_disabletitle" = "Stilte Mode";
+"settings_disabledescription" = "U kunt ervoor kiezen om de V.ALRT of Telefoon geen geluid of zichtbare notificatie te geven.";
+"settings_disabledevice" = "V.ALRT Apparaat";
+"settings_disablephone" = "Telefoon Applicatie";
+"phonenumber" = "Telefoon Nummer";
+"home_silent" = "Stilte Mode";
+"Are you sure Do you want to remove the selected contact?" =  "Bent u er zeker van om het geselecteerde contact te verwijderen?";
+
+"settings_message" = "Alarm Boodschap";
+"settings_defaultmessage" = "Tik om bericht in te voeren";
+
+//<!-- History Log -->
+"not_connected" = "Niet Verbonden";
+"connected" = "Verbonden";
+"help_history" = "Geschiedenis Log";
+
+//<!-- Find me activity -->
+
+//<!-- Extra added -->
+"manage_device_name_exist" ="Apparaat naam bestaat al ";
+
+"settings_alerttitle" = "Alarm Geluid";
+"settings_alertsound" = "Standaard Alarm Geluid";
+
+
+"settings-phonenumberfault-alert"= "Voer een geldig telefoonnummer in ";
+
+"welcome-settings-msg"= "Lees en accepteer de Voorwaarden A.U.B.";
+"manage-Enter Device Name" = "V.ALRT Hernoemen";
+"settings-personelmsg"="Voer de Naam en Telefoonnummer in ";
+"settings-personel-error"= "Error";
+"settings-personel-numbermsg"= "Voer een Geldig Telefoonnummer in ";
+"settings-personel-namemsg"="Voer een Geldige Naam in";
+
+"settings-personel"="Persoonlijke Info";
+"settings-personel-add"="Toevoegen";
+"settings-personel_name"="Uw naam";
+"settings-personel_phonenumber"="Uw Telefoonnummer";
+
+//Deviceoffpopup
+"turn_off" = "Zet Uit";
+"turnoff_desc" = "Wanneer de V.ALRT wordt uitgezet, zal het apparaat uitgeschakeld worden en zal er geen alarm aansturing mogelijk zijn totdat u het weer aanzet.";
+"on" = "AAN";
+"off" = "UIT";
+"Valrt_off" = "V.ALRT UIT";
+"Valrt_on" = "V.ALRT AAN";
+
+//Newly added
+"App permission_title"="App Toestemming Geweigerd";
+"App permission-denied-alert" ="Om opnieuw aan te zetten, ga naar instellingen en zet de Locatie Service aan voor deze app.";
+
+"send sms-notification"="Alarm Bezig!";
+"bluetooth-off"="Bluetooth is benodigd om V.ALRT te laten werken.";
+
+"locationservice_agreement"="Zet de Locatie Services aan om V.ALRT goed te laten functioneren ";
+"Please Switch on your Bluetooth"="Zet Bluetooth aan om de V.ALRT goed t laten functioneren ";
+"disconnected"="Niet Verbonden";
+
+"keyboard-apply"="Toepassen";
+"personellabel-edit"="Bewerken";
+"personel-alert-msg"="Minimaal uw persoonlijke info, het SMS bericht en één contactpersoon zijn benodigd ";
+"forget_device"="Verwijder eerst het bestaande apparaat, om de nieuwe V.ALRT te verbinden.";
+
+"app_launch"="Start de V.ALRT app om met uw apparaat te verbinden!";
+
+"Tap to add contact" = "Contact toevoegen";
+
+"settings_title"="Mijn Instellingen";
+"fall_status_enable" = "Val Detectie Ingeschakeld";
+"fall_status_disable" = "Val Detectie Uitgeschakeld";
+"product_devicename"="Apparaat Naam:";
+"product_serialnumber"="Serie Nummer:";
+"product_softwareversion"="Software Versie:";
+
+"devicedashboard_findV.ALRT"= " V.ALRT zoeken";
+"devicedashboard_renameV.ALRT"= " V.ALRT hernoemen";
+"devicedashboard_falldetection"= "Val Detectie";
+"devicedashboard_forgetme"= "Vergeet Me";
+
+"home-nodevice found"="Geen verbonden apparaat gevonden ";
+"devicename no empty"="Apparaat naam mag niet leeg zijn ";
+"device_empty"="Leeg!";
+"cancel"="Annuleren";
+"save"="Opslaan";
+"sms-text"="SMS wordt verstuurd naar";
+"sms-call"="Bellen to";
+"find-V.ALRT Device"=" V.ALRT zoeken";
+
+"bluetooth_diabled"="Uitgeschakeld";
+"bluetooth_enabled"="Ingeschakeld";
+"bluetooth_action"="BlueTooth";
+"V.ALRT" = "V.ALRT";
+"disconnected"="Niet verbonden";
+"connected"="Verbonden";
+
+"app launch V.ALRT"=" Start de V.ALRT app om met uw apparaat te verbinden!";
+
+"db_fall_enable"="Vallen ingeschakeld ";
+"db_fall_diable"="Vallen uitgeschakeld";
+"fall_detected"="Vallen gedetecteerd!";
+"fall_detected-seconds"="Seconden";
+"called"="Gebeld";
+"cancel_all_progress"="Annuleren";
+
+"valert_checked_message"="V.ALRT geeft geen geluid of visuele notificatie";
+"valert_unchecked_message"="V.ALRT geeft geluid of visuele notificatie ";
+"phone_checked_message"="Telefoon geeft geen geluid of visuele notificatie";
+"phone_unchecked_message"="Telefoon geeft geluid of visuele notificatie";
+"valert_alert_checked_title" = "Stilte Mode Inschakelen?";
+"valert_alert_unchecked_title" = "Stilte Mode Uitschakelen?";
+"valrt_disable_light"="Stilte Mode";
+"alrt_no"="Nee";
+"alrt_yes"="Ja";
+
+"Enable Fall Detection?"="Val Detectie Ingeschakeld?";
+
+"Disable Fall Detection?"=" Val Detectie Ingeschakeld?";
+"handimgae_seconds"="10 Sec";
+"ok"="Ok";
+"Find  V.ALRT Device" = "Zoek V.ALRT Apparaat";
+"Need DATA connection for V.ALRT to work" = "Heb DATA verbinding nodig om V.ALRT te laten functioneren";
+"valrt_disconnected" = "niet verbonden, vindt en verbindt ";
+"is" = "is";
+"V.ALRT Fall From:" = "V.ALRT Val Van:";
+"V.ALRT Emergency From:" = "V.ALRT Notificatie Van:";
+"my location to follow" = "de volgende locatie;";
+"My estimated location is" = "Mijn geschatte locatie is:";
+"Location Unavailable" = "Mijn locatie is niet beschikbaar ";
+"Call in Progress" = "Bezig met bellen ";
+"End Call" = "Einde Bellen ";
+"Incoming Call" = "Binnenkomend Gesprek ";
+"Ready for incoming call" = "Klaar om gesprekken te ontvangen ";
+"Please call" = "Bellen A.U.B.";
+"blink_text" = "Uw V.ALRT zal voor 20 seconden piepen en rood knipperen.";
+"settings-personel-countrymsg" = "Land selecteren A.U.B. ";
+"qsg_view" = " Snel Start Gids";
+"name-lbl" = "Naam";
+"phone-lbl" = "Voer uw mobiele nummer in";
+"country-lbl" = "Land";
+"editcontactMessage" ="Het nummer moet beginnen met + teken gevolgt door landcode. De landcode voor Nederland +31, België +32, Frankrijk +33, Duitsland +49, Spanje +34, Mexico +52, Brazilië +55 en India +91";
+"editcontactTitle" ="Nummer bewerken";
+"country_alert_txt" = "Ben er zeker van dat uw contacten nummer het juiste internationale formaat gebruikt";
+"code_not_match"="Nummer formaat is onjuist ";
+"<back" = "Zwart";
+"country_warning" = "Waarschuwing, wanneer u het land wijzigt, is het noodzakelijk om contacten van het nieuwe land te selecteren.";
+"Warning" = "Waarschuwing";
+"settings-personel-msgerror" = "Alarm bericht mag niet leeg zijn";
+"Select a Country" = "Selecteer een land";
+"United States" = "Verenigde Staten";
+"Mexico" = "Mexico";
+"Brazil" ="Brazilië";
+"Open in Safari?" = "Openen in Safari?";
+"name_less" = "Naam moet minder dan 16 characters zijn";
+"email_not_configured" = "Email is niet geconfigureerd ";
+"select_number" = "Selecteer een Nummer";
+"placehold_countrycode" = "Telefoonnummer met netnummer";

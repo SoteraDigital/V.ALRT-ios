@@ -1,0 +1,87 @@
+update_fastlane
+default_platform :ios
+version = get_version_number(
+  xcodeproj: "V.alert.xcodeproj",
+  target: "V.alert"
+)
+
+changelog = File.read("../Changelog.txt")
+
+def install_pods
+    cocoapods(
+      podfile: "Podfile",
+      try_repo_update_on_error: false
+    )
+end
+
+def compile
+  build_app(
+    workspace: "V.alert.xcworkspace",
+    clean: true,
+    scheme: "V.alert",
+    export_method: "app-store",
+    include_symbols: true,
+    include_bitcode: true,
+    export_xcargs: "-allowProvisioningUpdates"
+  )
+end
+lane :build do
+  install_pods()
+  build_app(
+    workspace: "V.alert.xcworkspace",
+    clean: true,
+    scheme: "V.alert",
+    export_method: "development",
+    include_symbols: true,
+    include_bitcode: true,
+    output_name: "V.alrt-dev.ipa",
+    export_xcargs: "-allowProvisioningUpdates"
+  )
+end
+lane :beta do
+  install_pods() 
+
+  increment_version_number(
+    bump_type: "patch" # Automatically increment patch version number
+  )
+
+  increment_build_number()
+
+  compile()
+
+  upload_to_testflight(
+    skip_waiting_for_build_processing: true,
+    changelog:changelog,
+    reject_build_waiting_for_review:true
+  )
+
+  commit_version_bump(
+        message: "[skip ci] Fastlane Version Bump",
+        xcodeproj: "V.alert.xcodeproj",
+        force: true
+  )
+end
+
+lane :appstore_upload do
+  install_pods()
+
+  increment_version_number(
+     bump_type: "patch" # Automatically increment patch version number
+  )
+
+  increment_build_number()
+
+  compile()
+
+  upload_to_app_store(
+    skip_waiting_for_build_processing: true,
+    changelog:changelog,
+    reject_build_waiting_for_review:true
+  )
+
+  commit_version_bump(
+      message: "[skip ci] Fastlane Version Bump",
+      xcodeproj: "V.alert.xcodeproj",
+      force: true
+  )
+end

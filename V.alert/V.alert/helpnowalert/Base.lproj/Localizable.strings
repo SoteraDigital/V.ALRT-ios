@@ -1,0 +1,325 @@
+// Device Tracker
+"Tracker" = "Tracker";
+"Tracker_in_progress" = "Tracker in progress";
+"EnableAlertMSG" = "Enable alerts for when your HELP NOW ALERT goes out of range";
+"SoundAndAlert" = "Alerta visual & de sonido";
+"TogelTheTracker" = "In Tracker mode your phone will vibrate or play a unique loud alert sound,  when your HELP NOW ALERT goes out of range. Please ensure your phone is not in silent mode.";
+
+"Sound" = "Loud Tone";
+"Vibrate" = "Vibrate";
+"Light" = "Flash";
+"Tracker_connected" = "Tracker Connected";
+"Tracker_disconnected" = "Tracker Disconnected";
+"Tracker_Cancelled" = "Tracker Cancelled";
+
+"Tracker_Loud_Alert_will_be_turned_off" = "Tracker Loud Alert will be turned off";
+
+"Tracker_on" = "On";
+"Tracker_off" = "Off";
+
+"Silent Mode for your phone applicaiton will be turned off" = "Silent Mode for your phone applicaiton will be turned off";
+"Tracker_silent" = "Silent Mode for your phone application will be turned off";
+"Tracker_accept" = "Accept";
+"Tracker_cancel" = "Cancel";
+"Application silent mode on" = "Application silent mode on";
+"Application silent mode off" = "Application silent mode off";
+"Device silent mode on" = "Device silent mode on";
+"Device silent mode off" ="Device silent mode off";
+"Tracker loud tone on" = "Tracker loud tone on";
+"Tracker loud tone off" ="Tracker loud tone off";
+"Tracker vibrate on" = "Tracker vibrate on";
+"Tracker vibrate off" ="Tracker vibrate off";
+
+
+
+//No Changes
+"CalendarAlert (Default)" = "CalendarAlert (Default)";
+"settings_disable" = "settings_disable";
+"call_enable" ="call_enable";
+"text_enable" ="text_enable";
+"initial_settings_setup" =  "initial_settings_setup";
+"Help, I need now" = "";
+//"CalendarAlert (Default)" =  "CalendarAlert (Default)";
+"1005" =  "1005";
+"settings_disable" = "settings_disable";
+"call_enable" = "call_enable";
+"text_enable" = "text_enable";
+"initial_settings_setup" =  "initial_settings_setup";
+"valert_device_silentmode" = "valert_device_silentmode";
+"phone_application_silentmode" = "phone_application_silentmode";
+"Tap to add contact" = "Add contact";
+"alert_message" = "alert_message";
+"alert_ringtone_name" = "alert_ringtone_name";
+"alert_ringtone_ID" = "alert_ringtone_ID";
+"contacts_array" = "contacts_array";
+"contacts_name" = "contacts_name";
+"found_peripherals" =  "found_peripherals";
+"paired_peripherals" = "paired_peripherals";
+"active_peripheral" =  "active_peripheral";
+"discover_uuid" = "discover_uuid";
+"ON" = "On";
+"OFF" = "Off";
+"Enabled"  = "Enabled";
+"Disabled" = "Disabled";
+
+"next" = "Next";
+"back" = "Back";
+"cancel" = "Cancel";
+"done" = "Done";
+
+"invalid_number" = "Not Valid Number";
+"connecting" = "Connecting";
+"waiting" = "Waiting";
+
+//Congratulation
+"sms_title" = "Tell your contacts that they are part of your HELP NOW ALERT circle.";
+"sms_desc" = "I added you as a HELP NOW ALERT contact. If I need help you will get a call and/or an SMS with my location";
+"skip" ="Skip";
+"send" ="Send";
+"sms_sent_success" = "Text Message sent ";
+"sms_sent_failure" = "Text Message fail";
+"send_sms" = "Sending SMS";
+"valrt_from" = "HELP NOW ALERT From:";
+
+//welcome Screen
+
+"welcome_title" = "Welcome";
+"welcome_terms" = "Terms and Conditions";
+
+
+"welcome_termsDescription" = "HELP NOW ALERT  is a small wearable alert device with Bluetooth 4.0 LE.Application will communicate with device via Bluetooth technology and alert people in case of urgency such as medical, fall and security by their family member.";
+
+"welcome_termAccept" = "Please Read and Accept Terms and Conditions.";
+"welcome-settings-msg"="Please Read and Accept Terms and Conditions.";
+
+"welcome_email_subject" = "HELP NOW ALERT T&C";
+
+//<!-- Agreement Screen -->
+"agreement_title" = "Agreement";
+
+"agreement_termsDescription" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+
+"agreement_terms" = "Additional requirements for the use and proper functionality of the Help Now Alert:";
+
+//<!-- Help Screen -->
+"help_title" = "Help";
+"help_history" = "History Log";
+"help_productInfo" = "Product Information";
+"help_about" = "FAQ";
+"help_instVideo" = "Instructional Video";
+"helpInfo_aboutTitle" = "About VSN";
+"helpInfo_ProductinfoTitle" = "Product Information";
+"helpInfo_TermsInfoTitle" = "Terms and Conditions";
+"help_terms" = "Terms and Conditions";
+"help_instManual" = "Quick Start Guide";
+
+"vsn_link" = "http://vsnmobil.com/valrt/manuals/VAlrt_quick_start.pdf";
+"Cancel" = "Cancel";
+"V.ALRT Key pressed" ="Alert Pressed";
+"V.FALL Detect" = "V.FALL Detect";
+"V.FALL fall Detect" = "Fall Detect";
+
+"Are you sure want to forgot this device" = "Forget this device?";
+"No Internet Connection is Avaialable" = "No Internet Connection";
+"No Internet Connection" = "No Internet Connection";
+"Avialable" = "Available";
+
+
+"Low Battery" = "Low Battery";
+//<!-- Help List -->
+//<!-- Scan -->
+"devices_title" = "Manage Device";
+"lblPaireddevice_text" = "Currently you have no paired devices";
+"no_device" = "No Devices Found";
+"available_device" = "Step 2 - Choose a HN-ALERT";
+"paired_device" = "HN-ALERT Device";
+"deviceHandLabel" = "Press and hold your HN-ALERT for 10 seconds until you hear a beep and the light flashes green, then release the button.";
+//<!-- Dashboard activity -->
+"Are you sure do you want to enable the fall detection?" = "Fall detection accuracy depends on the nature and impact of the fall. Tests have shown that fall detection works better if HELP NOW ALERT is used with the Clip or the Pendant. For best results, always press the HELP NOW ALERT button for 2~8 seconds.Proceed enabling fall detection?";
+"Are you sure do you want to disable the fall detection?" = "Disable the fall detection?";
+
+//<!-- FallDetectDialog -->
+
+
+//<!-- conguratulation activity -->
+"done" = "Done";
+"cong_title" = "Congratulations!!!";
+"cong_title1" = "Your HELP NOW ALERT is set up!";
+"home_termsDescription" ="Before you continue we recommend that you perform a test to ensure proper operation.Please notify your contacts that they will be receiving a text/phone call before pressing the alert button on your HELP NOW ALERT";
+//<!-- Home activity -->
+"home_title" = "Home";
+"home_deviceDashboard" = "My Device";
+"home_manageDevice" ="Manage Device";
+"home_help" = "Help";
+"home_textCalls" = "Text / Calls";
+"home_valertDevice" ="HELP NOW ALERT Device";
+"home_phoneApp" = "Phone Application";
+//<!-- AlertProgress Activity -->
+"Enable a Contact with Text or Call to send an Alert" = "Enable a Contact with Text or Call to send an Alert.";
+//<!-- Settings activity -->
+"home_settings" ="My Settings";
+"settings alert_message" = "Message";
+"settings_addContact" = "Add contact";
+"There are no contact number available for selected contact" = "No phone number in the selected contact";
+"Add Contact to Enable Texts and Calls"  = "Please add contact first";
+"settings_contact" = "Contacts";
+"settings_calls" = "Call";
+"settings_text" = "Text";
+"settings_alerttitle" = "Alert Sound";
+"settings_messagedescription" = "Message to be sent to preselected contacts.";
+"settings_alertstring" = "These are the tones that will be played when a notification occur or when HELP NOW ALERT is Triggered.";
+
+"settings_disabletitle" = "Silent Mode";
+"settings_disabledevice" = "HELP NOW ALERT Device";
+"settings_disablephone" = "Phone Application";
+"phonenumber" = "Phone Number";
+"home_silent" = "Silent Mode";
+"Are you sure Do you want to remove the selected contact?" =  "Are you sure you want to remove the selected contact?";
+
+"settings_message" = "Alert Message";
+"settings_defaultmessage" = "Tap to Enter Message";
+
+//<!-- History Log -->
+"not_connected" = "Not Connected";
+"connected" = "Connected";
+"help_history" = "History Log";
+
+//<!-- Find me activity -->
+
+//<!-- Extra added -->
+"manage_device_name_exist" ="Device name already exists";
+
+"settings_alerttitle" = "Alert Sound";
+"settings_alertsound" = "Default Alert Tone";
+
+
+"settings-phonenumberfault-alert"= "Enter a valid phone number";
+
+"welcome-settings-msg"= "Please Read and Accept Terms and Conditions.";
+"manage-Enter Device Name" = "Rename HN-ALERT";
+"settings-personelmsg"="Enter the Name and Phone number";
+"settings-personel-error"= "Error";
+"settings-personel-numbermsg"= "Enter a valid phone number";
+"settings-personel-namemsg"="Enter valid name";
+
+"settings-personel"="Personal Info";
+"settings-personel-add"="Add";
+"settings-personel_name"="Your Name";
+"settings-personel_phonenumber"="Your Cellphone #";
+
+//Deviceoffpopup
+"turn_off" = "Turn Off";
+"turnoff_desc" = "Turning HELP NOW ALERT off will disable the device and you will not be able to trigger an alert until you turn this back on.";
+"on" = "ON";
+"off" = "OFF";
+"Valrt_off" = "HN-ALERT OFF";
+"Valrt_on" = "HN-ALERT ON";
+
+//Newly added
+"App permission_title"="App Permission Denied";
+"App permission-denied-alert" ="To re-enable, please go to Settings and turn on Location Service for this app.";
+
+"send sms-notification"="Alert in Progress!";
+"bluetooth-off"="Need bluetooth for HELP NOW ALERT to work.";
+
+"locationservice_agreement"="Turn On Location Services to Allow HELP NOW ALERT work properly";
+"Please Switch on your Bluetooth"="Turn On Bluetooth to Allow HELP NOW ALERT work properly";
+"disconnected"="Disconnected";
+
+"keyboard-apply"="Apply";
+"personellabel-edit"="Edit";
+"personel-alert-msg"="At least your personal info, the text message and one contact are required";
+"forget_device"="Please forget existing device to connect new HELP NOW ALERT.";
+
+"app_launch"="Press this notification message to launch HELP NOW ALERT and ensure it is running in the background";
+
+"Tap to add contact" = "Add contact";
+
+"settings_title"="My Settings";
+"fall_status_enable" = "Fall Detection Enabled";
+"fall_status_disable" = "Fall Detection Disabled";
+"product_devicename"="Device Name:";
+"product_serialnumber"="Serial Number:";
+"product_softwareversion"="Software Version:";
+
+"devicedashboard_findV.ALRT"= "Find HN-ALERT";
+"devicedashboard_renameV.ALRT"= "Rename HN-ALERT";
+"devicedashboard_falldetection"= "Fall Detection";
+"devicedashboard_forgetme"= "Forget Me";
+
+"home-nodevice found"="No connected devices found";
+"devicename no empty"="Device name should not be empty";
+"device_empty"="Empty!";
+"cancel"="Cancel";
+"save"="Save";
+"sms-text"="Sending SMS to";
+"sms-call"="Calling to";
+"find-V.ALRT Device"="Find HN-ALERT";
+
+"bluetooth_diabled"="Disabled";
+"bluetooth_enabled"="Enabled";
+"bluetooth_action"="BlueTooth";
+"disconnected"="Disconnected";
+"connected"="Connected";
+
+"app launch V.ALRT"="Please launch the HELP NOW ALERT app to ensure it is running in the background!";
+
+"db_fall_enable"="Fall enable";
+"db_fall_diable"="Fall disable";
+"fall_detected"="Fall Detected!";
+"fall_detected-seconds"="Seconds";
+"called"="Called";
+"cancel_all_progress"="Cancel";
+
+"valert_checked_message"="HELP NOW ALERT won’t provide sound or visual notification";
+"valert_unchecked_message"="HELP NOW ALERT will provide sound and visual notifications";
+"phone_checked_message"="Phone won’t provide sound or visual notifications";
+"phone_unchecked_message"="Phone will provide sound and visual notifications";
+"valert_alert_checked_title" = "Enable Silent Mode?";
+"valert_alert_unchecked_title" = "Disable Silent Mode?";
+"valrt_disable_light"="Silent Mode";
+"alrt_no"="No";
+"alrt_yes"="Yes";
+
+"Enable Fall Detection?"="Enable Fall Detection?";
+
+"Disable Fall Detection?"="Disable Fall Detection?";
+"handimgae_seconds"="10 Sec";
+"ok"="Ok";
+"Find  V.ALRT Device" = "Find  HN-ALERT Device";
+"Need DATA connection for V.ALRT to work" = "Need DATA connection for HELP NOW ALERT to work";
+"valrt_disconnected" = "disconnected, please locate and reconnect";
+"is" = "is";
+"V.ALRT Fall From:" = "HN-ALERT Fall From:";
+"V.ALRT Emergency From:" = "HN-ALERT Notification From:";
+"my location to follow" = "location to follow;";
+"My estimated location is" = "My estimated location is:";
+"Location Unavailable" = "My location is Unavailable";
+"Call in Progress" = "Call in Progress";
+"End Call" = "End Call";
+"Incoming Call" = "Incoming Call";
+"Ready for incoming call" = "Ready for incoming call";
+"Please call" = "Please call";
+"blink_text" = "HELP NOW ALERT to beep and blink every 2 sec. for 20 sec";
+"settings-personel-countrymsg" = "Please select the country";
+"qsg_view" = "Quick Start Guide";
+"name-lbl" = "Name";
+"phone-lbl" = "Enter your mobile #";
+"country-lbl" = "Country";
+"editcontactMessage" ="The number should start with a + sign followed by country code. The country code for Mexico is +52 , Brazil is +55 , Columbia is +57 and Spain is +34";
+"editcontactTitle" ="Edit Number";
+"country_alert_txt" = "Please make sure your contact’s number uses the proper international dialing format";
+"code_not_match"="Number format is incorrect";
+"<back" = "Back";
+"country_warning" = "Warning, when you change the country it is necessary to select contacts from the new country.";
+"Warning" = "Warning";
+"settings-personel-msgerror" = "Alert message should not be empty";
+"Select a Country" = "Select a Country";
+"United States" = "United States";
+"Mexico" = "Mexico";
+"Brazil" ="Brazil";
+"Open in Safari?" = "Open in Safari?";
+"name_less" = "Name should be less than 16 character";
+"email_not_configured" = "Email not configured";
+"select_number" = "Select a Number";
+"placehold_countrycode" = "Phone number with area code";

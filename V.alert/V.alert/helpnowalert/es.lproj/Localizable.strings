@@ -1,0 +1,316 @@
+// Device Tracker
+"Tracker" = "Rastreador";
+"Tracker_in_progress" = "Rastreador en progreso";
+"EnableAlertMSG" = "Activar la alerta en caso que el HN-ALERT salga del área de cobertura";
+"SoundAndAlert" = "Alerta visual & de sonido";
+
+"TogelTheTracker" = "En el modo Rastreador el teléfono podrá vibrar o activar un tono de alerta predefinido cuando el HELP NOW ALERT sale del área de cobertura. Por favor asegúrate que el teléfono no está en modo silencioso.";
+
+"Sound" = "Sonido de Alerta";
+"Vibrate" = "Vibrar";
+"Light" = "Flash";
+
+"Tracker_connected" = "Rastreador conectado";
+"Tracker_disconnected" = "Rastreador desconectado";
+"Tracker_Cancelled" = "Rastreador Cancelado";
+
+"Tracker_Loud_Alert_will_be_turned_off" = "Sonido en el modo Rastreador será desactivado";
+
+"Tracker_on" = "Encendido";
+"Tracker_off" = "Apagado";
+
+"Silent Mode for your phone applicaiton will be turned off" = "Modo Silencioso para tú teléfono será desactivado";
+"Tracker_silent" = "Modo Silencioso para tú teléfono será desactivado.";
+"Tracker_accept" = "aceptar";
+"Tracker_cancel" = "Cancelar";
+"Application silent mode on" = "Modo Silencioso de la aplicación activado";
+"Application silent mode off" = "Modo Silencioso de la aplicación desactivado";
+"Device silent mode on" = "Modo Silencioso del dispositivo activado";
+"Device silent mode off" ="Modo Silencioso del dispositivo desactivado";
+"Tracker loud tone on" = "Tono de timbre del Rastreador activado";
+"Tracker loud tone off" ="Tono de timbre del Rastreador desactivado";
+"Tracker vibrate on" = "Vibración del Rastreador activado";
+"Tracker vibrate off" ="Vibración del Rastreador desactivado";
+
+
+"There are no contact number available for selected contact" = "No hay número de teléfono en el contacto seleccionado";
+"Are you sure Do you want to remove the selected contact?" =  "Está seguro que desea eliminar el contacto seleccionado?";
+"Add Contact to Enable Texts and Calls"  = "Por favor añada un contacto primero";
+
+//"CalendarAlert (Default)" = "CalendarAlert (por defecto)";
+"settings_disable" = "Configuración desactivada";
+"call_enable" ="Llamada activada";
+"text_enable" ="SMS activado";
+"initial_settings_setup" =  "Configuración inicial";
+"Help, I need now" = "";
+//"CalendarAlert (Default)" =  "CalendarAlert (por defecto)";
+"1005" =  "1005";
+"settings_disable" = "settings_disable";
+"call_enable" = "Llamada activada";
+"text_enable" = "SMS activado";
+"initial_settings_setup" =  " Configuración inicial";
+"valert_device_silentmode" = "HELP NOW ALERT en modo silencioso";
+"phone_application_silentmode" = "Teléfono en modo silencioso";
+
+"Tap to add contact" = "Añadir contacto";
+"alert_message" = "Mensaje de alerta";
+"alert_ringtone_name" = "Nombre del timbre";
+
+"alert_ringtone_ID" = "Timbre";
+"contacts_array" = "contacts_array";
+"contacts_name" = "contacts_name";
+"found_peripherals" =  "Dispositivos encontrados";
+"paired_peripherals" = "HN-ALERT vinculado";
+"active_peripheral" =  "Dispositivos activos";
+"discover_uuid" = "discover_uuid";
+"ON" = "Encendido";
+"OFF" = "Apagado";
+"Enabled"  = "Activado";
+"Disabled" = "Desconectado";
+
+//Congratulation
+"sms_title" = "Dile a tus contactos que ellos son parte de tu círculo de protección con HELP NOW ALERT.";
+"sms_desc" = "Te inclui en mis contactos del HELP NOW ALERT. Si necesito ayuda vas a recibir una llamada y/o un SMS con mi ubicacion";
+"skip" ="Saltar";
+"send" ="Enviar";
+"sms_sent_success" = "Mensaje de prueba enviada.";
+"sms_sent_failure" = "Mensaje de prueba falle.";
+"send_sms" = "Envío de SMS";
+"valrt_from" = "HELP NOW ALERT Desde:";
+
+//Deviceoffpopup
+"turn_off" = "Apagar";
+"turnoff_desc" = "Al apagar el HELP NOW ALERT se deshabilita el funcionamiento del dispositivo. Es necesario mantener esto encendido para que la alerta pueda ser enviada.";
+"on" = "Encendido";
+"off" = "Apagado";
+"Valrt_off" = "HN-ALERT OFF";
+"Valrt_on" = "HN-ALERT ON";
+
+/////
+"welcome_title" = "Bienvenido";
+"welcome_terms" = "Términos y Condiciones";
+"welcome_termsDescription" = "HELP NOW ALERT es un pequeño dispositivo de alerta portátil con bluetooth 4.0 LE. La aplicación del HELP NOW ALERT se comunicará con el teléfono a través del Bluetooth y enviara mensajes a sus contactos en caso de alerta y podrá también establecer llamadas con ellos.";
+"welcome_termAccept" = "Por favor Lea y Acepte los Términos y Condiciones.";
+"welcome_email_subject" = "HELP NOW ALERT T&C";
+
+"agreement_title" = "Acuerdo";
+"agreement_termsDescription" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.";
+
+"devices_title" = "Conexión HN-ALERT";
+"lblPaireddevice_text" = "Actualmente no tiene un dispositivo conectado.";
+"no_device" = "No se han encontrado dispositivos.";
+"activate_device" = "Paso 1 – Activar mi HN-ALERT";
+"available_device" = "Selecciona un HN-ALERT";
+"paired_device" = "HN-ALERT";
+"invalid_number" = "Número no es válido";
+"not_connected" = "Desconectado";
+"connected" = "conectado";
+"connecting" = "conectando";
+"waiting" = "Esperando";
+
+"help_title" = "Ayuda";
+"help_history" = "Registro Histórico";
+"help_productInfo" = "Producto";
+"help_about" = "Preguntas Frecuentes";
+"help_terms" = "Términos y Condiciones";
+"help_instManual" = "Guía Rápida";
+"help_instVideo" = "Video Descriptivo";
+//—Video Descriptivo \u0020\u0020
+
+"next" = "Sig.";
+"back" = "Atrás";
+"cancel" = "Cancelar";
+"done" = "Listo";
+
+"home_title" = "Menú";
+"home_deviceDashboard" = "Mi Dispositivo";
+"home_settings" = "Mi Configuración";
+"home_manageDevice" = "Administrar Dispositivo";
+"home_help" = "Ayuda";
+"home_textCalls" = "SMS / Llamada";
+"home_silent" = "Modo Silencioso";
+"home_valertDevice" = "Ubicar HN-ALERT";
+"home_phoneApp" = "Aplicación Teléfono";
+"home_deviceDashboard" = "Mi Dispositivo";
+
+"cong_title" = "Felicitaciones!!!";
+"cong_title1" = "Tu HELP NOW ALERT está configurado!!!";
+
+
+"settings_title" = "Mi Configuración";
+
+
+//userfeedback starts
+
+"Enable a Contact with Text or Call to send an Alert" = "Define un Contacto con mensaje o llamada para enviar la Alerta.";
+"agreement_terms" = "Requerimientos adicionales para el correcto funcionamiento del HELP NOW ALERT:";
+
+"help_terms" = "Términos y Condiciones";
+"help_instManual" = "Guía Rápida";
+
+
+"home_termsDescription" = "Antes de continuar, te recomendamos realizar una prueba para asegurar que está funcionando correctamente.Notifica a tus contactos que van a recibir una llamada y/o un SMS antes de presionar el botón de alerta en tu HELP NOW ALERT.";
+
+"settings-personel"="Datos Personales";
+"settings-personel-add"="Adicionar";
+"settings-personel_name"="Nombre";
+"settings-personel_phonenumber"="Su número Celular";
+
+
+"settings-phonenumberfault-alert"="Introduzca un número de teléfono válido";
+"phonenumber" = "Celular";
+//userfeedback ends
+
+"settings_contact" = "Contactos";
+"settings_calls" = "Llamar";
+"settings_text" = "Texto";
+"settings_addContact" = "Anadir contacto";
+
+"settings_alerttitle" = "Alerta de sonido";
+"settings_alertstring" = "Este es el tono que se reproducirá en caso de alerta.";
+"settings_alertsound" = "Default Alert Tone";
+
+"settings_disabletitle" = "Modo Silencioso";
+"settings_disabledescription" = "Puedes escoger para que el HN-ALERT o tu teléfono no provea ninguna notificación visual o de sonido.";
+"settings_disabledevice" = "HN-ALERT";
+"settings_disablephone" = "Teléfono";
+"settings_message" = "Mensaje de alerta";
+"settings_messagedescription" = "Este es el mensaje que se enviará en caso de alerta.";
+"settings_defaultmessage" = "Complete mensaje";
+"deviceHandLabel" = "Mantén presionado por cerca de 10 segundos hasta que el HN-ALERT suene y se ilumine en verde, y en este momento libera el botón para finalizar la conexión.";
+"fall_status_enable" = "Detección de Caída Activado";
+"fall_status_disable" = "Detección de Caída Desconectado";
+
+"helpInfo_aboutTitle" = "Acerca VSN";
+"helpInfo_ProductinfoTitle" = "Producto";
+"helpInfo_TermsInfoTitle" = "Términos y Condiciones";
+"vsn_link" = "http://vsnmobil.com/valrt/manuals/VAlrt_quick_start.pdf";
+"Are you sure do you want to enable the fall detection?" = "La precisión en la detección de caída depende de diversos factores como la naturaleza de la caída y la forma como HELP NOW ALERT es sostenido. Las pruebas han demostrado que funciona mejor si se utiliza HELP NOW ALERT con el Clip o el colgante. Para obtener mejores resultados, siempre presione el botón de alerta por 2 ~ 8 segundos. ¿Quiere habilitar la detección de caída?";
+"Are you sure do you want to disable the fall detection?" = "Está seguro que desea desactivar la detección de caída para este dispositivo?";
+"Cancel" = "Cancel";
+"V.ALRT Key pressed" =  "Botón de Alerta activado";
+"V.FALL Detect" = "Caída Detectada";
+"V.FALL fall Detect" = "Caída Detectada";
+"No Internet Connection is Avaialable" = "No hay conexión a Internet";
+"No Internet Connection" = "No hay conexión a Internet";
+"Avialable" = "disponible";
+"Low Battery" = "Batería Baja";
+
+"settings-phonenumberfault-alert"="Introduzca un número de teléfono válido";
+
+"welcome-settings-msg"="Por favor Lea y Acepte los Términos y Condiciones.";
+"manage-Enter Device Name" ="Cambiar Nombre";
+"manage_device_name_exist" ="Nombre ya existe";
+
+"settings-personelmsg"="Introduzca su nombre y número telefónico";
+"settings-personel-error"="Equivocación";
+"settings-personel-numbermsg"="Introduzca un número de teléfono válido";
+"settings-personel-namemsg"="Introduzca un nombre válido";
+
+//Newly added
+"App permission_title"="Permiso para la aplicación fue rechazado";
+"App permission-denied-alert" ="Para conectar de nuevo por favor vaya a configuración y active el Servicio de Localización para esta aplicación";
+
+"bluetooth-off"="Se necesita bluetooth activado para el funcionamiento del HELP NOW ALERT.";
+
+"locationservice_agreement"="Acuerdo de servicios de localización para el HELP NOW ALERT";
+"Please Switch on your Bluetooth"="Acuerdo de servicios de localización para el HELP NOW ALERT";
+"disconnected"="Desconectado";
+
+"keyboard-apply"="Aceptar";
+"personellabel-edit"="Editar";
+"personel-alert-msg"="Se requiere la información personal, el texto del mensaje y por lo menos un contacto.";
+"forget_device"="Por favor olvide el HELP NOW ALERT existente para conectar uno nuevo.";
+"app_launch"="Presione esta notificación para asegurar que el HELP NOW ALERT está en funcionamiento";
+
+"product_devicename"="Nombre del Dispositivo:";
+"product_serialnumber"="Número de Serie:";
+"product_softwareversion"="Versión de Software:";
+
+"devicedashboard_findV.ALRT"="Ubicar HN-ALERT";
+"devicedashboard_renameV.ALRT"="Cambiar Nombre";
+"devicedashboard_falldetection"="Detección de Caída";
+"devicedashboard_forgetme"="Remover";
+
+"home-nodevice found"="No se han encontrado dispositivos.";
+"devicename no empty"="Nombre del dispositivo no puede estar vacío";
+"device_empty"="Vacío!";
+"cancel"="Cancelar";
+"save"="Guardar";
+"sms-text"="Envío de SMS a";
+"sms-call"="Llamando a";
+"Are you sure want to forgot this device" = "Olvidar este dispositivo?";
+"find-V.ALRT Device"="Ubicar HN-ALERT";
+"settings alert_message" = "Mensaje";
+
+
+
+"bluetooth_diabled"="Desconectado";
+"bluetooth_enabled"="Activado";
+"bluetooth_action"="BlueTooth";
+"V.ALRT" = "HELP NOW ALERT";
+"disconnected"="Desconectado";
+"connected"="conectado";
+
+"db_fall_enable"="Detección de caída activado";
+"db_fall_diable"="Detección de caída desactivado";
+"fall_detected"="Caída Detectada!";
+"fall_detected-seconds"="segundos";
+"called"="llamado";
+"send sms-notification"="Alerta en Progreso!";
+"cancel_all_progress"="Cancelar";
+
+"valert_checked_message"="HELP NOW ALERT no provee notificación visual o de sonido";
+"valert_unchecked_message"="HELP NOW ALERT provee notificación visual y de sonido";
+"phone_checked_message"="Teléfono no provee notificación visual o de sonido";
+"phone_unchecked_message"="Teléfono provee notificaciones visual y de sonido";
+"valert_alert_checked_title" = "Activar Modo Silencioso?";
+"valert_alert_unchecked_title" = "Desactivar Modo Silencioso?";
+"valrt_disable_light"="Modo Silencioso";
+
+"alrt_no"="No";
+"alrt_yes"="Sí";
+
+"Enable Fall Detection?"="Activar detección de caída?";
+"Disable Fall Detection?"="Está seguro que desea desactivar la detección de caída para este dispositivo?";
+
+"handimgae_seconds"="10 Segundos";
+"ok"="Aceptar";
+"keyboard-apply"="Aceptar";
+"Find  V.ALRT Device" = "Ubicar HN-ALERT";
+"Need DATA connection for V.ALRT to work" = "Se necesita servicio de datos para el funcionamiento del HELP NOW ALERT.";
+"valrt_disconnected" = "desconectado, por favor localícelo y reconéctelo";
+"is" = "esta";
+"V.ALRT Fall From:" = "HN-ALERT Caida De:";
+"V.ALRT Emergency From:" = "HN-ALERT Notificacion De:";
+"my location to follow" = "A continuacion envio mi ubicacion actual.";
+"My estimated location is" = "Estoy ubicado aproximadamente en";
+"Location Unavailable" = "Mi ubicación no está disponible";
+"Call in Progress" = "Llamada en progreso";
+"End Call" = "Terminar Llamada";
+"Incoming Call" = "Llamada Entrante";
+"Ready for incoming call" = "Listo para recibir llamada";
+"Please call" = "Por favor llame";
+"blink_text" = "Tu HELP NOW ALERT emitirá un sonido y parpadeará durante 20 seg.";
+"settings-personel-countrymsg" = "Please select the country";
+"qsg_view" = "Guía Rápida";
+"name-lbl" = "Nombre";
+"phone-lbl" = "Escribe tu número de celular";
+"country-lbl" = "País";
+"editcontactMessage" ="El número debe comenzar con el signo + y seguido por el código del país. El código para México es +52 y Brasil es +55";
+"editcontactTitle" ="Editar el numero";
+"country_alert_txt" = "Asegúrate que el número de tu contacto tiene el formato correcto para marcación internacional";
+"code_not_match"="Formato de marcación es incorrecto";
+"<back" = "Atrás";
+"country_warning" = "Precaución, si cambias el país es necesario seleccionar contactos del nuevo país.";
+"Warning" = "Precaución";
+"settings-personel-msgerror" = "Mensaje de alerta no debe estar vacío";
+"Select a Country" = "Selecciona el país";
+"United States" = "Estados Unidos";
+"Mexico" = "México";
+"Brazil" ="Brasil";
+"Open in Safari?" = "Abre en Safari?";
+"name_less" = "Nombre debe ser inferior a 16 caracteres";
+"email_not_configured" = "El correo electrónico no configurado";
+"select_number" = "Seleccionar un Número";
+"placehold_countrycode" = "Número telefónico con código de área";
